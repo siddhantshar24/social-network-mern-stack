@@ -7,15 +7,16 @@ Description about technologies used:
 The Social Networking website is built as a full stack MERN Project with users, posts, likes and comments.
 
 What you need to run this code
-Node (13.12.0)
-NPM (6.14.4) or Yarn (1.22.4)
-MongoDB (4.2.0)
-How to run this code
-Make sure MongoDB is running on your system
-Clone this repository
-Open command line in the cloned folder,
+Node (13.12.0),
+NPM (6.14.4), 
+MongoDB (4.2.0).
+#
+Make sure MongoDB is running on your system and clone this repository.
+#
+Open command line in the cloned folder.
+#
 To install dependencies, run  npm install  or yarn
-
+#
 To start the project in your local, in the project directory, you can run:
 
 ### `npm start`
