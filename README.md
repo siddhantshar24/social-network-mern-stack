@@ -6,7 +6,7 @@ Technologies used: ReactJS, JavaScript, HTML, CSS, ExpressJS, MongoDB, NodeJS.
 Description about technologies used:
 The Social Networking website is built as a full stack MERN Project with users, posts, likes and comments.
 
-What you need to run this code
+What you need to run this code :
 Node (13.12.0),
 NPM (6.14.4), 
 MongoDB (4.2.0).
