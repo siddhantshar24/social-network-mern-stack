@@ -1,7 +1,7 @@
 # MERN-Stack-Social-Network
 MERN Stack Project for Social Network Website for connecting with peers.
 
-Technologies used: ReactJS, JavaScript, HTML, CSS, ExpressJS, MongoDB, NodeJS.
+Technologies used: ReactJS, JavaScript, ExpressJS, MongoDB, NodeJS.
 
 Description about technologies used:
 The Social Networking website is built as a full stack MERN Project with users, posts, likes and comments.
