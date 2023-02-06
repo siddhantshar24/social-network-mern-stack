@@ -10,15 +10,9 @@ What you need to run this code
 Node (13.12.0),
 NPM (6.14.4), 
 MongoDB (4.2.0).
-#
-Make sure MongoDB is running on your system and clone this repository.
-#
-Open command line in the cloned folder.
-#
-To install dependencies, run  npm install  or yarn
-#
-To start the project in your local, in the project directory, you can run:
 
+To install dependencies, run  npm install  or yarn and make sure MongoDB is running.
+To start the project in your local, in the project directory, you can run:
 ### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
